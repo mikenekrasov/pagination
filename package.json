@@ -1,7 +1,7 @@
 {
-  "name": "duotek2",
+  "name": "Pagination Demo",
   "version": "1.0.0",
-  "description": "My exceptional Nuxt.js project",
+  "description": "Pagination Demo",
   "author": "M1kentosh",
   "private": true,
   "scripts": {
