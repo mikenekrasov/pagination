@@ -1,8 +1,7 @@
-# duotek2
+# Pagination Demo
 
-> My exceptional Nuxt.js project
+>The pagination demo project
 
-## Build Setup
 
 ``` bash
 # install dependencies
@@ -18,5 +17,3 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
